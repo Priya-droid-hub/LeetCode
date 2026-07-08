@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Priya-droid-hub/LeetCode/tree/master/0205-isomorphic-strings) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
