@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
