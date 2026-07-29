@@ -119,10 +119,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Priya-droid-hub/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priya-droid-hub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Priya-droid-hub/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Priya-droid-hub/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Priya-droid-hub/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
