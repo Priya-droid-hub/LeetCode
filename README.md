@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priya-droid-hub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/Priya-droid-hub/LeetCode/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priya-droid-hub/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priya-droid-hub/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Priya-droid-hub/LeetCode/tree/master/0735-asteroid-collision) |
 ## Sorting
 |  |
 | ------- |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Priya-droid-hub/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
