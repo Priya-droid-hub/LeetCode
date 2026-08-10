@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Priya-droid-hub/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Priya-droid-hub/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priya-droid-hub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Priya-droid-hub/LeetCode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Priya-droid-hub/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Priya-droid-hub/LeetCode/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -203,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Priya-droid-hub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Priya-droid-hub/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Priya-droid-hub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Priya-droid-hub/LeetCode/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Priya-droid-hub/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Priya-droid-hub/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
