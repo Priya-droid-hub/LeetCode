@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priya-droid-hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Priya-droid-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Priya-droid-hub/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Priya-droid-hub/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priya-droid-hub/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Priya-droid-hub/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priya-droid-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Priya-droid-hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Priya-droid-hub/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Priya-droid-hub/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Priya-droid-hub/LeetCode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priya-droid-hub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Priya-droid-hub/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -273,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priya-droid-hub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priya-droid-hub/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priya-droid-hub/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
