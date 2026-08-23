@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Priya-droid-hub/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Priya-droid-hub/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1927-sum-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priya-droid-hub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Priya-droid-hub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Priya-droid-hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/Priya-droid-hub/LeetCode/tree/master/0402-remove-k-digits) |
+| [1927-sum-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priya-droid-hub/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priya-droid-hub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Priya-droid-hub/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priya-droid-hub/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Priya-droid-hub/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1927-sum-game) |
 ## Linked List
 |  |
 | ------- |
