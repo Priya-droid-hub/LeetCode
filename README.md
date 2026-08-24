@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Priya-droid-hub/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Priya-droid-hub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Priya-droid-hub/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priya-droid-hub/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priya-droid-hub/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priya-droid-hub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Priya-droid-hub/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priya-droid-hub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Priya-droid-hub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priya-droid-hub/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priya-droid-hub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Priya-droid-hub/LeetCode/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priya-droid-hub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Priya-droid-hub/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
