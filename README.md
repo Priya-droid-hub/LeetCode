@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Priya-droid-hub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Priya-droid-hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/Priya-droid-hub/LeetCode/tree/master/0402-remove-k-digits) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priya-droid-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priya-droid-hub/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priya-droid-hub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Priya-droid-hub/LeetCode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Priya-droid-hub/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Priya-droid-hub/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priya-droid-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Priya-droid-hub/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Sorting
 |  |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Priya-droid-hub/LeetCode/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priya-droid-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
