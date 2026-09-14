@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Priya-droid-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Priya-droid-hub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priya-droid-hub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Priya-droid-hub/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
@@ -391,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Priya-droid-hub/LeetCode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Priya-droid-hub/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Priya-droid-hub/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Priya-droid-hub/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
