@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priya-droid-hub/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Priya-droid-hub/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priya-droid-hub/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Priya-droid-hub/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priya-droid-hub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priya-droid-hub/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priya-droid-hub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priya-droid-hub/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Priya-droid-hub/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Priya-droid-hub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priya-droid-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priya-droid-hub/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priya-droid-hub/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priya-droid-hub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
