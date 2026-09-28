@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Priya-droid-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Priya-droid-hub/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/Priya-droid-hub/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Priya-droid-hub/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Priya-droid-hub/LeetCode/tree/master/0486-predict-the-winner) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priya-droid-hub/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Priya-droid-hub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Priya-droid-hub/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Priya-droid-hub/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Priya-droid-hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Priya-droid-hub/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Priya-droid-hub/LeetCode/tree/master/0402-remove-k-digits) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Priya-droid-hub/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
