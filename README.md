@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Priya-droid-hub/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priya-droid-hub/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Priya-droid-hub/LeetCode/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/Priya-droid-hub/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priya-droid-hub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Priya-droid-hub/LeetCode/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/Priya-droid-hub/LeetCode/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/Priya-droid-hub/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
