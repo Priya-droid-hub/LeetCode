@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Priya-droid-hub/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Priya-droid-hub/LeetCode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/Priya-droid-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priya-droid-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Priya-droid-hub/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Priya-droid-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Priya-droid-hub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priya-droid-hub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Priya-droid-hub/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priya-droid-hub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priya-droid-hub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Priya-droid-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Priya-droid-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priya-droid-hub/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priya-droid-hub/LeetCode/tree/master/0344-reverse-string) |
