@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Priya-droid-hub/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Priya-droid-hub/LeetCode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Priya-droid-hub/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priya-droid-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Priya-droid-hub/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Priya-droid-hub/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priya-droid-hub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priya-droid-hub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Priya-droid-hub/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Priya-droid-hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Priya-droid-hub/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priya-droid-hub/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Priya-droid-hub/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Priya-droid-hub/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -449,4 +453,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Priya-droid-hub/LeetCode/tree/master/0051-n-queens) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priya-droid-hub/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priya-droid-hub/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
