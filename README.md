@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Priya-droid-hub/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Priya-droid-hub/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Priya-droid-hub/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priya-droid-hub/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priya-droid-hub/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1406-stone-game-iii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Priya-droid-hub/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priya-droid-hub/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priya-droid-hub/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priya-droid-hub/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priya-droid-hub/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3904-smallest-stable-index-ii](https://github.com/Priya-droid-hub/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Priya-droid-hub/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Priya-droid-hub/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priya-droid-hub/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priya-droid-hub/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priya-droid-hub/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priya-droid-hub/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
